@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/intrepion/intrepion-users-e2e/issues"
   },
-  "homepage": "https://github.com/intrepion/intrepion-users-e2e#readme"
+  "homepage": "https://github.com/intrepion/intrepion-users-e2e#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
 }
